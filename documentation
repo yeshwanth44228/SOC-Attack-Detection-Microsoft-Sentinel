@@ -1,1 +1,9 @@
 investigation-steps.md
+## Incident Investigation Steps
+
+1. Alert was triggered due to multiple failed login attempts.
+2. Reviewed account name and IP address involved.
+3. Checked authentication failure patterns in logs.
+4. Identified brute-force behavior.
+5. Mapped activity to MITRE ATT&CK technique T1110.
+6. Documented findings and recommended account monitoring.
